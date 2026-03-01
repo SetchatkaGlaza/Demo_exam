@@ -1,6 +1,0 @@
-requestID;startDate;deviceTypeID;deviceModel;problemDescription;statusID;completionDate;repairParts;masterID;clientID
-1;2023-06-06;1;RDOR GAMING RAGE H290;Выключается после 10 минут работы;2;2023-06-10;Замена блока питания;2;7
-2;2023-05-05;2;ASUS VivoBook Pro 15 M6500QH-HN034 синий;Сильно шумит и греется;2;2023-05-10;Чистка кулера;3;8
-3;2022-07-07;3;ARDOR GAMING Phantom PRO;Перестало работать колёсико;3;2023-01-01;Замена колесика;3;9
-4;2023-08-02;4;Dark Project KD83A;Сломались некоторые клавиши;1;2023-08-05;Замена клавиш;2;8
-5;2023-08-02;2;ASUS ROG Strix G15 G513RW-HQ177 серый;Не загружается система;1;2023-08-07;Переустановка Windows;2;9
