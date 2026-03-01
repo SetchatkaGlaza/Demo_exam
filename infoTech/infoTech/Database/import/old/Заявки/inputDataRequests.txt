@@ -1,0 +1,6 @@
+zayavka_id;data_dobavlenia;zayavka_number;problema;status_id;garantia_day;data_zaverchenia;master_id;zakazchik_id
+1;2023-06-06;1;Выключается после 10 минут работы;1;null;;2;7
+2;2023-05-05;2;Сильно шумит и греется;2;null;;3;8
+3;2022-07-07;3;Перестало работать колёсико;2;2023-01-01;;3;9
+4;2023-08-02;4;Сломались некоторые клавиши;4;null;;null;8
+5;2023-08-02;2;Не загружается система;3;null;;null;9

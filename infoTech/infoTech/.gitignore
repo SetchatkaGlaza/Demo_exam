@@ -1,0 +1,18 @@
+# Visual Studio временные файлы
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.pdb
+*.exe
+*.dll
+*.db
+
+# Папки с зависимостями
+packages/
+
+# Локальные настройки
+App.config
+*.csproj.user
